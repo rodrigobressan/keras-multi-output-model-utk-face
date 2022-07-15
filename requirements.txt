@@ -10,7 +10,7 @@ colorama==0.4.1
 cycler==0.10.0
 dask==1.2.2
 decorator==4.4.0
-distributed==1.28.1
+distributed==2021.10.0
 future==0.17.1
 gast==0.2.2
 graphviz==0.12
